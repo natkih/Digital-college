@@ -1,3 +1,3 @@
 # Digital-college
 Exercícios e atividades relacionadas ao curso.
-<a href= https://natkih.github.io/Digital-college/index.html> Calculadora </a>
+<a href= https://github.com/natkih/Digital-college/blob/master/index.html> Calculadora </a>
